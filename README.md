@@ -1,4 +1,4 @@
-Enterprise Ape (H1 headline)
+Enterprise Ape #(H1 headline)
 =============
 
 Powerful Software (H2 headline)
@@ -17,8 +17,8 @@ Fell free to access [my portfolio](http:portfolio.zeedrake.com). (link)
 GitHub.com uses its own version of the Markdown **syntax**.
 
 ### Crazy good software (+ headline w/bullet pts)
-*Rapid development
-+Tested
+* Rapid development
++ Tested
 - 24/7 support
 
 ### Reasons to choose us (+ headline w/#'s)
